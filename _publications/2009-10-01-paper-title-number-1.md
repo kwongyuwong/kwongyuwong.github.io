@@ -2,7 +2,7 @@
 title: "Dynamic Competition of Real Estate Developers in Hong Kong: Lesson on Counter-cycle Policy"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Cyclical, or counter-cyclical, policy tends to be regarded as less disruptive to the market than universal/acyclical policy1, but it is less certain when dynamic competition is involved. I study the impact of counter-cycle policy by structurally estimating the dynamic competition of the Hong Kong real estate primary market, in comparison with acyclical policy. '
+excerpt: 'Cyclical, or counter-cyclical, policy tends to be regarded as less disruptive to the market than universal/acyclical policy1, but it is less certain when dynamic competition is involved. I study the impact of counter-cycle policy by structurally estimating the dynamic competition of the Hong Kong real estate primary market, in comparison with acyclical policy. ... '
 date: 2021-09-17
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
