@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at the University of Washington. My current research focuses on dynamic competition between firms and its consequences resulting from regulatory change. I apply tools from machine learning to to process unstructured supporting data (e.g. satellite images) as well as to perform causal inference.
+I am a PhD candidate in Economics at the University of Washington. My current research focuses on dynamic competition between firms and its consequences resulting from regulatory change. I apply tools from machine learning to process unstructured data (e.g. satellite images, text) as well as to perform causal inference.
 
-Research interests: Empirical Industrial Organization, Machine Learning and Applied Microeconomics. 
+**Research interests**: Empirical Industrial Organization, Machine Learning and Applied Microeconomics. 
 
-You can contact me at kwongyuw [at] uw.edu
+You can contact me at *kwongyuw [at] uw.edu*
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
