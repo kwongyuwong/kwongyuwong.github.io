@@ -15,4 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Wong, Kwong-Yu. (2021). &quot;Dynamic Competition of Real Estate Developers in Hong Kong: Lesson on Counter-cycle Policy&quot; <i>Working Paper</i>. 1(1).
+Kwong-Yu Wong. (2021). &quot;[Dynamic Competition of Real Estate Developers in Hong Kong: Lesson on Counter-cycle Policy](http://academicpages.github.io/files/paper1.pdf)&quot; <i>Working Paper</i>. 1(1).
