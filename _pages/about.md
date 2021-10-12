@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at the University of Washington. My current research focuses on dynamic competition between firms and its consequences resulting from regulations. I apply tools from machine learning to perform causal inference as well as to process unstructured data (e.g. satellite images).
+I am a PhD candidate in Economics at the University of Washington. My current research focuses on dynamic competition between firms and its consequences resulting from regulatory change. I apply tools from machine learning to to process unstructured supporting data (e.g. satellite images) as well as to perform causal inference.
 
 Research interests: Empirical Industrial Organization, Machine Learning and Applied Microeconomics. 
 
