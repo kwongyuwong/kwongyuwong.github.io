@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Cyclical, or counter-cyclical, policy tends to be regarded as less disruptive to the market than universal/acyclical policy, but it is less certain when dynamic competition is involved. I study the impact of counter-cycle policy by structurally estimating the dynamic competition of the Hong Kong real estate primary market, in comparison with acyclical policy. ... '
 date: 2021-09-17
-venue: ''
+venue: 
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Wong, Kwong-Yu. (2021). &quot;Dynamic Competition of Real Estate Developers in Hong Kong: Lesson on Counter-cycle Policy&quot; <i>Working Paper</i>. 1(1).'
 ---
