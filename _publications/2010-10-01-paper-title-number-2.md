@@ -5,6 +5,6 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 
 date: 2019-03-17
 venue: 
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 
 citation: 
 ---
