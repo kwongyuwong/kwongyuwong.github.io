@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please see the [latest CV](/files/Resume_latest.pdf) here.
+Please see the [latest CV](/files/resume_latest.pdf) here.
 
 <!-- Education
 ======
