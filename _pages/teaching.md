@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
 <!-- 
 {% include base_path %}
 
@@ -11,11 +12,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Independent Instructor:
+## Independent Instructor:
 ECON 300: Intermediate Microeconomics, University of Washington, Winter 2019 – Fall 2019, Spring 2020 – Fall 2020
 ECON 200: Introduction to Microeconomics, University of Washington, Fall 2017 – Fall 2018
 
-# Teaching Assistant
+## Teaching Assistant
 SOC 225: Data and Society, University of Washington, Spring 2021 - Fall 2021
 ECON 300: Intermediate Microeconomics, University of Washington, Winter 2020
 STAT 311: Elements of Statistical Methods, University of Washington, Spring 2016
