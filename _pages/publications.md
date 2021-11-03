@@ -22,10 +22,10 @@ Kwong-Yu Wong. (2021). &quot;[Dynamic Competition of Real Estate Developers in H
 
 
 ## Work in progress
-Shuo Jiang & Kwong-Yu Wong. (2021) &quot;Value Approximation for High-dimensional Dynamic Game&quot; 
+&quot;Value Approximation for High-dimensional Dynamic Game&quot; (joint with Shuo Jiang)
 
-Thor Dodson & Kwong-Yu Wong. (2021) &quot;Reddit, Retail Investor and Technology of Consorting&quot; 
+&quot;Reddit, Retail Investor and Technology of Consorting&quot; (joint with Thor Dodson)
 
-Minyan Shen & Kwong-Yu Wong (2020) &quot;Productivity Measurement, Deep Learning and Scanner Data&quot; 
+&quot;Productivity Measurement, Deep Learning and Scanner Data&quot; (joint with Minyan Shen)
 
-Wenzheng Mao & Kwong-Yu Wong (2019) &quot;Productive Competition under Rationing: Evidence from Food Delivery in China&quot; 
+&quot;Productive Competition under Rationing: Evidence from Food Delivery in China&quot; (joint with Wenzheng Mao)
