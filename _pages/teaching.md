@@ -12,7 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Independent Instructor:
+## Independent Instructor
 ### University of Washington
 ECON 300: Intermediate Microeconomics, Winter 2019 – Fall 2019, Spring 2020 – Fall 2020  
 ECON 200: Introduction to Microeconomics, Fall 2017 – Fall 2018
