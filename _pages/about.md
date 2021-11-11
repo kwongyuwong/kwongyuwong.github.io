@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- ![photo2021](/images/uw_20211015_0G6A7063.JPG) -->
-<img src="/images/uw_20211015_0G6A7063.JPG" width="500">
+<img src="/images/uw_20211015_0G6A7063.JPG" width="300">
 
 I am a PhD candidate in Economics at the University of Washington. My current research focuses on dynamic competition between firms and its consequences resulting from regulatory change. I apply tools from machine learning to process unstructured data (e.g. satellite images, text) as well as to perform causal inference.
 
